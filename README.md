@@ -2,4 +2,6 @@
 
 This program will simulate a Dipole Field emitting from a micro-magnetic particle. 
 
-To run ----> pip install -r Requirements.txt
+To install ----> pip install -r Requirements.txt
+
+To run ----> python Dipole_Field_Map.py
